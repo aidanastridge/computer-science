@@ -1,1 +1,1 @@
-# computer-science
+# Fundamentals of development and math
