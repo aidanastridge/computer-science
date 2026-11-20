@@ -16,7 +16,7 @@ Recently, I had to deal with drug resistant epilepsy over the last two years tha
 
 #### Source
 
-Based significantly off of Susan Rigetti’s "So You Want to Study Mathematics..." 
+Based significantly off of Susan Rigetti’s ["So You Want to Study Mathematics..." ]()
 Oz Nova’s and Myles Byrne "Teach Yourself Computer Science"
 Machine Learning: TensorTonic
 Ian Wienand’s "Computer Science from the Bottom Up"
