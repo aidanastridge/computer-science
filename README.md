@@ -1,4 +1,4 @@
-# Fundamentals of Mathematics, Machine Learning, AI, and Attention 
+# Fundamentals of Mathematics, Machine Learning, and AI 
 
 #### **Aidan** **Astridge**
 
@@ -17,5 +17,11 @@ Recently, I had to deal with drug resistant epilepsy over the last two years tha
 #### Source
 
 Based significantly off of Susan Rigetti’s ["So You Want to Study Mathematics..." ](https://www.susanrigetti.com/math)
+
+</br>
+
 Oz Nova’s and Myles Byrne ["Teach Yourself Computer Science"](https://teachyourselfcs.com)
+
+</br>
+
 Ian Wienand’s ["Computer Science from the Bottom Up"](https://www.bottomupcs.com)
