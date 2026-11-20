@@ -1,1 +1,1 @@
-# computer-science
+# Fundamentals of Mathematics, Machine Learning, AI, and GPU 
