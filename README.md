@@ -18,8 +18,7 @@ Recently, I had to deal with drug resistant epilepsy over the last two years tha
 | --- | --- | --- |
 | Calculus | *Calculus: Early Transcendentals* | Machine Learning |
 | Linear Algebra | *Introduction to Linear Algebra* | Machine Learning |
-| Discrete Mathematics and Proofs | *Mathematics for Computer Science
-How to Prove It: A Structured Approach* | Machine Learning |
+| Discrete Mathematics and Proofs | *Mathematics for Computer Science* | Machine Learning |
 | Distributed Systems | *Designing Data-Intensive Applications* | Computer Science |
 | Databases | *Readings in Database Systems* | Computer Science |
 
