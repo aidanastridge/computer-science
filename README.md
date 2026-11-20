@@ -14,6 +14,12 @@
 
 Recently, I had to deal with drug resistant epilepsy over the last two years that was rough. Luckily, I do have a Bachelors of Commerce with a focus on Management Science: Probability, Statistics, Time Series Analysis, Optimization etc. But how do I show that I love math and computer science? I meet with people, I network, and *I show my passion!*
 
+| Languages |
+| --- |
+| Python |
+| Julia |
+| TypeScript |
+
 | Domain | Textbook | Subject |
 | --- | --- | --- |
 | Calculus | *Calculus: Early Transcendentals* | Machine Learning |
