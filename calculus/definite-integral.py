@@ -6,9 +6,7 @@ def integral(func,a,b,c,e):
     b = (c*func(b))**e
     return b-a
 
-
 #Quick check
-
 # 3
 def three(x):
     return (1/4)*(2*x-8)**2
@@ -35,3 +33,5 @@ def seventeen(x):
         return 2*x
 
 # 21
+def twentyOne(x):
+    return
