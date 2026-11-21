@@ -1,12 +1,4 @@
 
-# functions
-
-def three(x):
-    return (1/4)*(2*x-8)**2
-
-def four(x):
-    return 5*x
-
 # integral
 
 def integral(func,a,b,c,e):
@@ -15,20 +7,31 @@ def integral(func,a,b,c,e):
     return b-a
 
 
-# quick check
+#Quick check
 
 # 3
+def three(x):
+    return (1/4)*(2*x-8)**2
 
 print(integral(three,2,7,1,1))
 
 # 4 
+def four(x):
+    return 5*x
 
-print(integral(four,1,2,5,1))
-print(integral(four,-2,2,1,1))
-print(integral(four,1,1,1,2))
-print(integral(four,2,-2,4,1))
-
+#Excersises
 # 17
-
 def seventeen(x):
-    return x
+    if(x>=0):
+        return abs(x-2)
+    else:
+        return x+2
+
+# 18
+def seventeen(x):
+    if(x>=1):
+        return x**2
+    else:
+        return 2*x
+
+# 21
