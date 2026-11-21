@@ -1,6 +1,5 @@
 
 # integral
-
 def integral(func,a,b,c,e):
     a = (c*func(a))**e
     b = (c*func(b))**e
@@ -11,7 +10,6 @@ def integral(func,a,b,c,e):
 def three(x):
     return (1/4)*(2*x-8)**2
 
-print(integral(three,2,7,1,1))
 
 # 4 
 def four(x):
@@ -32,6 +30,4 @@ def seventeen(x):
     else:
         return 2*x
 
-# 21
-def twentyOne(x):
-    return
+
