@@ -1,10 +1,10 @@
 
 # functions
 
-def one(x):
-    return (1/2)*(x-1)**2
+def three(x):
+    return (1/4)*(2*x-8)**2
 
-def two(x):
+def four(x):
     return 5*x
 
 # integral
@@ -15,14 +15,20 @@ def integral(func,a,b,c,e):
     return b-a
 
 
-print(integral(one,1,2,1,1))
+# quick check
+
+# 3
+
+print(integral(three,2,7,1,1))
 
 # 4 
 
-print(integral(two,1,2,5,1))
-print(integral(two,-2,2,1,1))
-print(integral(two,1,1,1,2))
-print(integral(two,2,-2,4,1))
+print(integral(four,1,2,5,1))
+print(integral(four,-2,2,1,1))
+print(integral(four,1,1,1,2))
+print(integral(four,2,-2,4,1))
 
-# 5
+# 17
 
+def seventeen(x):
+    return x
